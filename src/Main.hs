@@ -2,6 +2,8 @@ module Main (main) where
 
 import Data.List (sortBy)
 
+-- LISTA EXTRA 2
+
 {--
 1. Defina uma função
  penultimo :: [a]-> a
